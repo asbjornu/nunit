@@ -1,3 +1,14 @@
+# Lorem Ipsum
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel laoreet
+est. Vestibulum a quam orci. Sed hendrerit, sapien ac congue varius, eros lacus
+suscipit nibh, sit amet condimentum risus sem ut erat. Nulla facilisi. Etiam
+quis laoreet ligula. Mauris laoreet quam a metus ultrices, id facilisis ante
+posuere. Phasellus luctus tristique interdum. Phasellus laoreet velit eu eros
+auctor, sit amet viverra velit pretium. Donec quis lacinia urna. Morbi egestas
+consequat velit, eu efficitur nulla sodales eu. Duis iaculis risus eu tortor
+eleifend malesuada. 
+
 # Building NUnit 3.0
 
 NUnit 3.0 consists of three separate layers: the Framework, the Engine and the Console Runner. 
